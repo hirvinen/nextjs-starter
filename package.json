@@ -21,7 +21,10 @@
     "url": "https://github.com/hirvinen/nextjs-starter/issues"
   },
   "homepage": "https://github.com/hirvinen/nextjs-starter#readme",
-  "dependencies": {
+  "devDependencies": {
     "xo": "^0.20.1"
+  },
+  "xo": {
+    "space": true
   }
 }
