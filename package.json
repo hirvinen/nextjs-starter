@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-starter",
+  "version": "0.0.1",
+  "description": "A template for Next.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirvinen/nextjs-starter.git"
+  },
+  "keywords": [
+    "next",
+    "next.js",
+    "starter"
+  ],
+  "author": "Patrik Hirvinen <patrik.hirvinen@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirvinen/nextjs-starter/issues"
+  },
+  "homepage": "https://github.com/hirvinen/nextjs-starter#readme",
+  "dependencies": {
+    "xo": "^0.20.1"
+  }
+}
