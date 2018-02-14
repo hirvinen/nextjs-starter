@@ -1,2 +1,2 @@
-# nextjs-starter
-Next.js starter
+# A Next.js starter project
+This is a starter project to serve as a template for Next.js applications
