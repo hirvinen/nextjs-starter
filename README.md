@@ -1,6 +1,8 @@
 # A Next.js starter project
 
-This is a starter project to serve as a template for Next.js applications
+This is a starter project to serve as a template for Next.js applications.
+
+It is not a clone of, but inspired by [Next.js Starter Project](https://github.com/iaincollins/nextjs-starter) by [Iain Collins](https://github.com/iaincollins) . It will probably do many things in a similar fashion, while others may reflect different preferences. The main reason for doing this myself is to learn more about what's going on under the hood.
 
 ## Features / objectives
 
