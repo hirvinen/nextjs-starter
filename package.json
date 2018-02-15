@@ -25,6 +25,8 @@
     "xo": "^0.20.1"
   },
   "xo": {
-    "space": true
+    "space": true,
+    "prettier": true,
+    "semicolon": false
   }
 }
